@@ -13,6 +13,7 @@ namespace Methods
 
             int first = 7;
             int second = 10;
+			
             Console.WriteLine(Multiply(first, second));
             Multiply(4, 5);
             DisplayNr(22);
